@@ -1,3 +1,1 @@
-
-## Report
-report_image.jpg
+![Report](https://github.com/abhinavomer/Visualizing_company_sales_data/blob/main/report_image.jpg)
